@@ -1,0 +1,10 @@
+body {
+  background-color: #ffffff;
+}
+
+body #blogform {
+  background-color: red;
+  border-radius: 2px;
+  color: black;
+}
+/*# sourceMappingURL=app.css.map */

@@ -1,0 +1,14 @@
+$color1:  #ffffff;
+$color2 : red;
+$color3 : black;
+
+
+body{
+    background-color: $color1;
+
+    #blogform{
+        background-color: $color2;
+        border-radius: 2px;
+        color: black;
+    }
+}
