@@ -9,6 +9,9 @@ body{
     #blogform{
         background-color: $color2;
         border-radius: 2px;
-        color: black;
+        color: $color3;
+        h2{
+            font-size: 22px;
+        }
     }
 }

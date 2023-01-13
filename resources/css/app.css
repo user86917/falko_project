@@ -7,4 +7,8 @@ body #blogform {
   border-radius: 2px;
   color: black;
 }
+
+body #blogform h2 {
+  font-size: 22px;
+}
 /*# sourceMappingURL=app.css.map */
